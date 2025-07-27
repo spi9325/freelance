@@ -22,8 +22,8 @@ import { HiBars3 } from "react-icons/hi2";
 
 export const Navbar = () => {
   return (
-    <div className="text-mdmax-w-[1440px] mx-auto relative overflow-hidden">
-      <div className="flex justify-between bg-black px-4 py-3 w-full">
+    <div className="text-md max-w-[1440px] mx-auto relative overflow-hidden">
+      <div className="flex justify-between bg-black px-4 py-3">
         <div className=" p-1 flex gap-1">
           <span className="text-white text-[20px] font-bold">envato</span>
           <span className="text-slate-500 text-[20px]">market</span>
